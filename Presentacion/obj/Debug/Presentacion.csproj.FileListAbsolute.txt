@@ -1,0 +1,284 @@
+C:\Users\SAMI\Desktop\Datos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\SAMI\Desktop\Datos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\SAMI\Desktop\Datos\Presentacion\bin\Debug\Datos.dll
+C:\Users\SAMI\Desktop\Datos\Presentacion\bin\Debug\Logica.dll
+C:\Users\SAMI\Desktop\Datos\Presentacion\bin\Debug\Logica.pdb
+C:\Users\SAMI\Desktop\Datos\Presentacion\bin\Debug\Datos.pdb
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.Inventario.resources
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\SAMI\Desktop\Datos\Presentacion\obj\Debug\Presentacion.Splash.resources
+F:\Datos\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+F:\Datos\Presentacion\obj\Debug\Presentacion.Clientes.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Empleado.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Factura.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Inventario.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Login.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.loginad.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.loginpro.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Principal.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Registrar.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.RegistrarUsuario.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Servicios.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.ServiciosPrestados.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.Splash.resources
+F:\Datos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\Datos\Presentacion\bin\Debug\Presentacion.exe
+F:\Datos\Presentacion\bin\Debug\Presentacion.pdb
+F:\Datos\Presentacion\bin\Debug\Datos.dll
+F:\Datos\Presentacion\bin\Debug\Logica.dll
+F:\Datos\Presentacion\bin\Debug\Logica.pdb
+F:\Datos\Presentacion\bin\Debug\Datos.pdb
+F:\Datos\Presentacion\obj\Debug\Presentacion.exe
+F:\Datos\Presentacion\obj\Debug\Presentacion.pdb
+H:\Datos\Presentacion\obj\Debug\Presentacion.exe
+H:\Datos\Presentacion\obj\Debug\Presentacion.pdb
+H:\Datos\Presentacion\bin\Debug\Presentacion.exe
+H:\Datos\Presentacion\bin\Debug\Presentacion.pdb
+H:\Datos\Presentacion\bin\Debug\Datos.dll
+H:\Datos\Presentacion\bin\Debug\Logica.dll
+H:\Datos\Presentacion\bin\Debug\Logica.pdb
+H:\Datos\Presentacion\bin\Debug\Datos.pdb
+H:\Datos\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+H:\Datos\Presentacion\obj\Debug\Presentacion.Clientes.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.Empleado.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.Factura.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.Login.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.loginad.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.loginpro.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.Principal.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.Registrar.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.RegistrarUsuario.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.Servicios.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.ServiciosPrestados.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.Splash.resources
+H:\Datos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+H:\Datos\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.exe
+G:\Datos\Presentacion\obj\Debug\Presentacion.pdb
+G:\Datos\Presentacion\bin\Debug\Presentacion.exe
+G:\Datos\Presentacion\bin\Debug\Presentacion.pdb
+G:\Datos\Presentacion\bin\Debug\Datos.dll
+G:\Datos\Presentacion\bin\Debug\Logica.dll
+G:\Datos\Presentacion\bin\Debug\Logica.pdb
+G:\Datos\Presentacion\bin\Debug\Datos.pdb
+G:\Datos\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+G:\Datos\Presentacion\obj\Debug\Presentacion.Clientes.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.Empleado.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.Factura.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.Login.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.loginad.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.loginpro.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.Principal.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.Registrar.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.RegistrarUsuario.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.Servicios.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.ServiciosPrestados.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.Splash.resources
+G:\Datos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.exe
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.pdb
+F:\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe
+F:\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.pdb
+F:\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.dll
+F:\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.dll
+F:\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.pdb
+F:\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.pdb
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.loginad.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Principal.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Registrar.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Servicios.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Splash.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormEmpleado.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormClientes.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.exe
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.pdb
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.pdb
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.dll
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.dll
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.pdb
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.pdb
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormClientes.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormEmpleado.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Factura.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Login.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.loginad.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.loginpro.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Principal.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Registrar.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.RegistrarUsuario.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Servicios.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.ServiciosPrestados.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Splash.resources
+E:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.dll
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.dll
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormClientes.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormEmpleado.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Factura.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.loginad.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Registrar.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Servicios.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.ServiciosPrestados.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormClientes.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormEmpleado.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFactura.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.loginad.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Principal.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Registrar.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Servicios.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Splash.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.dll
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.dll
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.exe
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarFactura.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultas.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarUsuarios.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFacturaServicios.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConFacServicios.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormClientes.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConFacServicios.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarFactura.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarUsuarios.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultas.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormEmpleado.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFactura.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFacturaServicios.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.loginad.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Principal.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Registrar.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Servicios.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Splash.resources
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.pdb
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.dll
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.dll
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.pdb
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.pdb
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.exe
+G:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.pdb
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.exe
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.pdb
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.pdb
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.dll
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.dll
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Logica.pdb
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Datos.pdb
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormClientes.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConFacServicios.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarFactura.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarUsuarios.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultas.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormEmpleado.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFactura.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFacturaServicios.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.loginad.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Principal.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Registrar.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Servicios.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Splash.resources
+H:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe.config
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteClientes.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteFactura.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteFServicios.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteProductos.resources
+F:\Drive\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteEmpleado.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe.config
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConFacServicios.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarFactura.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarUsuarios.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultas.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFactura.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFacturaServicios.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteClientes.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteEmpleado.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteFactura.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormRegistrarU.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteProductos.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormManual.resources
+F:\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteFServicioscs.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormClientes.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConFacServicios.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarFactura.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultarUsuarios.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormConsultas.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormEmpleado.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFactura.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormFacturaServicios.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormManual.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormRegistrarU.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteClientes.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteEmpleado.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteFactura.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteFServicioscs.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormReporteProductos.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FromProductos.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.loginad.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.FormProvedores.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Registrar.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Servicios.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache

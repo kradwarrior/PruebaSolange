@@ -1,0 +1,70 @@
+C:\Users\SAMI\Desktop\Datos\Logica\bin\Debug\Logica.dll
+C:\Users\SAMI\Desktop\Datos\Logica\bin\Debug\Logica.pdb
+C:\Users\SAMI\Desktop\Datos\Logica\bin\Debug\Datos.dll
+C:\Users\SAMI\Desktop\Datos\Logica\bin\Debug\Datos.pdb
+C:\Users\SAMI\Desktop\Datos\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMI\Desktop\Datos\Logica\obj\Debug\Logica.dll
+C:\Users\SAMI\Desktop\Datos\Logica\obj\Debug\Logica.pdb
+F:\Datos\Logica\obj\Debug\ResolveAssemblyReference.cache
+F:\Datos\Logica\bin\Debug\Logica.dll
+F:\Datos\Logica\bin\Debug\Logica.pdb
+F:\Datos\Logica\bin\Debug\Datos.dll
+F:\Datos\Logica\bin\Debug\Datos.pdb
+F:\Datos\Logica\obj\Debug\Logica.dll
+F:\Datos\Logica\obj\Debug\Logica.pdb
+H:\Datos\Logica\bin\Debug\Logica.dll
+H:\Datos\Logica\bin\Debug\Logica.pdb
+H:\Datos\Logica\bin\Debug\Datos.dll
+H:\Datos\Logica\bin\Debug\Datos.pdb
+H:\Datos\Logica\obj\Debug\ResolveAssemblyReference.cache
+H:\Datos\Logica\obj\Debug\Logica.dll
+H:\Datos\Logica\obj\Debug\Logica.pdb
+G:\Datos\Logica\bin\Debug\Logica.dll
+G:\Datos\Logica\bin\Debug\Logica.pdb
+G:\Datos\Logica\bin\Debug\Datos.dll
+G:\Datos\Logica\bin\Debug\Datos.pdb
+G:\Datos\Logica\obj\Debug\ResolveAssemblyReference.cache
+G:\Datos\Logica\obj\Debug\Logica.dll
+G:\Datos\Logica\obj\Debug\Logica.pdb
+F:\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.dll
+F:\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.pdb
+F:\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.dll
+F:\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.pdb
+F:\Nuestro proyecto enkanta super wai\Logica\obj\Debug\ResolveAssemblyReference.cache
+F:\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.dll
+F:\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.dll
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.dll
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.dll
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.dll
+F:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.dll
+F:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\ResolveAssemblyReference.cache
+F:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.dll
+F:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.pdb
+G:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.dll
+G:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.pdb
+G:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.dll
+G:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.pdb
+G:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\ResolveAssemblyReference.cache
+G:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.dll
+G:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.pdb
+H:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.dll
+H:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.pdb
+H:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.dll
+H:\Drive\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.pdb
+H:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\ResolveAssemblyReference.cache
+H:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.dll
+H:\Drive\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.pdb
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.dll
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Logica.pdb
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.dll
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Logica\bin\Debug\Datos.pdb
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.dll
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Logica\obj\Debug\Logica.pdb

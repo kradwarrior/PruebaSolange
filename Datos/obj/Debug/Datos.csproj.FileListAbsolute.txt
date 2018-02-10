@@ -1,0 +1,48 @@
+C:\Users\SAMI\Desktop\Datos\Datos\bin\Debug\Datos.dll
+C:\Users\SAMI\Desktop\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\SAMI\Desktop\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMI\Desktop\Datos\Datos\obj\Debug\Datos.dll
+C:\Users\SAMI\Desktop\Datos\Datos\obj\Debug\Datos.pdb
+F:\Datos\Datos\bin\Debug\Datos.dll
+F:\Datos\Datos\bin\Debug\Datos.pdb
+F:\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+F:\Datos\Datos\obj\Debug\Datos.dll
+F:\Datos\Datos\obj\Debug\Datos.pdb
+H:\Datos\Datos\bin\Debug\Datos.dll
+H:\Datos\Datos\bin\Debug\Datos.pdb
+H:\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+H:\Datos\Datos\obj\Debug\Datos.dll
+H:\Datos\Datos\obj\Debug\Datos.pdb
+G:\Datos\Datos\bin\Debug\Datos.dll
+G:\Datos\Datos\bin\Debug\Datos.pdb
+G:\Datos\Datos\obj\Debug\ResolveAssemblyReference.cache
+G:\Datos\Datos\obj\Debug\Datos.dll
+G:\Datos\Datos\obj\Debug\Datos.pdb
+F:\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.dll
+F:\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.pdb
+F:\Nuestro proyecto enkanta super wai\Datos\obj\Debug\ResolveAssemblyReference.cache
+F:\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.dll
+F:\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.dll
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.pdb
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.dll
+C:\Users\SAMI\Desktop\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.dll
+F:\Drive\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\ResolveAssemblyReference.cache
+F:\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.dll
+F:\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.pdb
+G:\Drive\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.dll
+G:\Drive\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.pdb
+G:\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\ResolveAssemblyReference.cache
+G:\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.dll
+G:\Drive\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.pdb
+F:\Drive\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.dll.config
+F:\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.dll.config
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.dll.config
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.dll
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Datos\bin\Debug\Datos.pdb
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.dll
+C:\Users\Diego\Desktop\Nuestro proyecto enkanta super wai\Datos\obj\Debug\Datos.pdb
